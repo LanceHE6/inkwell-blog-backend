@@ -8,6 +8,6 @@ public class InkwellBlogApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(InkwellBlogApplication.class, args);
-        System.out.println("hello world");
+
     }
 }
